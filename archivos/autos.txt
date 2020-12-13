@@ -1,0 +1,3 @@
+Nisan,Tiida,Gris,PNG-812,SKT-234,5,10,2,Marco,Molina,Medina,23,
+Ford,Fiesta,Naranja,KLN-167,EDA-271,5,15,3,Francisco,Varela,Arreola,28,
+Chevrolet,Camaro,Rojo,YGF-923,UWS-721,5,20,4,Ricardo,Becerril,Sanchez,20,
